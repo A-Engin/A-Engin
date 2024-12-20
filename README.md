@@ -23,7 +23,7 @@ I am actively seeking opportunities in the software development industry where I
 I am always open to new challenges and opportunities to collaborate. Feel free to reach out to me through my GitHub profile or any of the links below.
 
 - [LinkedIn](www.linkedin.com/in/adem-halac-607632135)
-- [AdemHalac](site-URL)
+- [A-Engin](site-URL)
 
 Thank you for visiting my profile. Let's embark on this exciting journey of software development together!
 
